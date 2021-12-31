@@ -9,6 +9,9 @@ ________________________________________________________________________________
 For people interested on the software. just follow instruction as below
 
 Instruction:
-1) Double-click on the .exe file and wait till you see the dialogue box
-2) enter yr helium miner address and amount of blocks. (for now by default is 360)
-3) Click Enter and voila
+1) Download the file. 
+2) Double-click on the .exe file and wait till you see the dialogue box
+3) enter yr helium miner address and amount of blocks. (for now by default is 360)
+4) Click Enter and voila
+
+*Refer image if needed
